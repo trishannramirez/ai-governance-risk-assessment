@@ -113,4 +113,4 @@ The script validates the data (unique IDs, valid scores, known systems, all 19 A
 ## Author
 
 **Trish Ann Ramirez** – Aspiring GRC / Cybersecurity Analyst
-[LinkedIn](https://www.linkedin.com/in/your-profile)
+[LinkedIn](https://www.linkedin.com/in/trishannnicoler/)
