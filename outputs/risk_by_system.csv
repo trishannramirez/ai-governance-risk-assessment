@@ -1,0 +1,8 @@
+System_ID,System_Name,Risks,Max_Inherent,Avg_Inherent,Avg_Residual
+AI-01,Bluefin Assist,2,20,18.0,9.0
+AI-02,Support Copilot,5,12,9.4,4.2
+AI-03,ReadmitIQ,7,16,13.3,6.0
+AI-04,StaffSense,1,12,12.0,4.0
+AI-05,Vendor AI features (SaaS),2,16,14.0,5.0
+AI-06,ATS candidate ranking,1,12,12.0,6.0
+All,Organization-wide,3,20,14.7,5.3
